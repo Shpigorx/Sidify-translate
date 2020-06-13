@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8" language="Pусский"?>
+<locale>
+	<controls>
+		<!-- Main Window -->
+		<control name="lblHighlight" value="text=&quot;Sidify Music Converter for Spotify&quot;"/>
+		<control name="lblHighlightSmall" value="text=&quot;Конвертер музыки из Spotify&quot;"/>
+		<control name="btnInstall" value="text=&quot;Установить сейчас!&quot; tooltip=&quot;Установить&quot;"/>
+		<control name="textLicense" value="text=&quot;{f 0}Принимаю {a}{u}{l}{c #0098ef}лицензионное соглашение с конечным пользователем Sidify{/c}{/l}{/u}{/a}{/f}&quot;"/>
+		<control name="lblAgreeLicense" value="text=&quot;Перед установкой прочитайте и примите это соглашение&quot;"/>
+		<control name="btnMoreOptions" value="text=&quot;Дополнительные настройки&quot;"/>
+
+		<control name="btnHideLicense" value="text=&quot;OK&quot;"/>
+		
+		<control name="lblInstallFolder" value="text=&quot;Путь установки:&quot;"/>
+		<control name="btnSelectFolder" value="text=&quot;Обзор...&quot;"/>
+		<control name="checkBoxDesktop" value="text=&quot;Создать ярлык на рабочем столе&quot;"/>
+		<control name="lblLocalization" value="text=&quot;Язык установки:&quot;"/>
+		<control name="btnOptionsInstall" value="text=&quot;Установить&quot;"/>
+		<control name="btnOptionsBack" value="text=&quot;Назад&quot;"/>
+		
+		<control name="slideItem00" value="text=&quot;Удаление DRM из музыки Spotify для вечного пользования&quot;"/>
+		<control name="slideItem01" value="text=&quot;Конвертирование музыки Spotify в MP3, AAC, WAV, FLAC&quot;"/>
+		<control name="slideItem02" value="text=&quot;Загрузка песен без потери качества с сохранением ID3 тегов&quot;"/>
+		<control name="slideItem03" value="text=&quot;Экспорт песен из Spotify в iTunes или запись на CD в один клик&quot;"/>
+		<control name="lblProgressTip" value="text=&quot;Установка программы, подождите&quot;"/>
+		
+		<control name="lblOK" value="text=&quot;Установка завершена&quot;"/>
+		<control name="checkBoxRun" value="text=&quot;Запустить приложение&quot;"/>
+		<control name="btnRunApplication" value="text=&quot;Начать сейчас&quot;"/>
+		<control name="btnFinish" value="text=&quot;Готово&quot;"/>
+	</controls>
+	<menus>
+	</menus>
+	<strings>
+	</strings>
+	<wtl_dialogs>
+	</wtl_dialogs>
+</locale>

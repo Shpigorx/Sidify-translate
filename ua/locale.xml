@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8" language="Українська"?>
+<locale>
+	<controls>
+		<!-- Main Window -->
+		<control name="lblHighlight" value="text=&quot;Sidify Music Converter for Spotify&quot;"/>
+		<control name="lblHighlightSmall" value="text=&quot;Остаточний Spotify DRM Audio Converter&quot;"/>
+		<control name="btnInstall" value="text=&quot;Встановити зараз!&quot; tooltip=&quot;Встановіть&quot;"/>
+		<control name="textLicense" value="text=&quot;{f 0}Прийміть {a} {u} {l} {c # 0098ef} Ліцензійну угоду кінцевого користувача Sidify{/c}{/l}{/u}{/a}{/f}&quot;"/>
+		<control name="lblAgreeLicense" value="text=&quot;Будь ласка, ознайомтеся з цією угодою та погодимося на її встановлення&quot;"/>
+		<control name="btnMoreOptions" value="text=&quot;Налаштувати інсталяцію&quot;"/>
+
+		<control name="btnHideLicense" value="text=&quot;в порядку&quot;"/>
+		
+		<control name="lblInstallFolder" value="text=&quot;Шлях встановлення:&quot;"/>
+		<control name="btnSelectFolder" value="text=&quot;Переглянути...&quot;"/>
+		<control name="checkBoxDesktop" value="text=&quot;Створити іконку на робочому столі&quot;"/>
+		<control name="lblLocalization" value="text=&quot;Мова встановлення:&quot;"/>
+		<control name="btnOptionsInstall" value="text=&quot;Встановіть&quot;"/>
+		<control name="btnOptionsBack" value="text=&quot;Назад&quot;"/>
+		
+		<control name="slideItem00" value="text=&quot;Видаліть DRM із музики Spotify для задоволення життя&quot;"/>
+		<control name="slideItem01" value="text=&quot;Перетворення пісень Spotify або списків відтворення в MP3, AAC, WAV, FLAC&quot;"/>
+		<control name="slideItem02" value="text=&quot;Записуйте пісні зі 100% якістю без втрат і тримайте теги ID3&quot;"/>
+		<control name="slideItem03" value="text=&quot;Один клік для запису пісень Spotify на компакт-диск або експортувати музику Spotify до iTunes&quot;"/>
+		<control name="lblProgressTip" value="text=&quot;Установка, зачекайте&quot;"/>
+		
+		<control name="lblOK" value="text=&quot;Установка завершена&quot;"/>
+		<control name="checkBoxRun" value="text=&quot;Запуск програми&quot;"/>
+		<control name="btnRunApplication" value="text=&quot;Розпочати зараз&quot;"/>
+		<control name="btnFinish" value="text=&quot;Завершити&quot;"/>
+	</controls>
+	<menus>
+	</menus>
+	<strings>
+	</strings>
+	<wtl_dialogs>
+	</wtl_dialogs>
+</locale>
